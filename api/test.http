@@ -1,0 +1,23 @@
+# POST http://localhost:3000/
+# Content-Type: application/json
+
+# {
+#   "name":"Nguyen Van K",
+#   "studentID": "20206612",
+#   "dob": "2002-06-010",
+#   "class": "DSAI-01"
+# }
+
+GET http://localhost:3000/
+
+# PUT http://localhost:3000/645a15f3382759358b2d4679
+# Content-Type: application/json
+
+# {
+#     "name":"Nguyen Van H",
+#     "studentID": "20206612",
+#     "dob": "2002-06-04",
+#     "class": "DSAI-01"
+# }
+
+DELETE http://localhost:3000/645bd8faa3e441d741a4b0e4
